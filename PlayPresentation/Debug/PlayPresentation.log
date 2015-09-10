@@ -1,0 +1,21 @@
+﻿빌드 시작: 2015-09-10 오후 7:18:56
+     1>2 노드의 "c:\Users\CAUCSE\documents\visual studio 2013\Projects\PlayPresentation\PlayPresentation\PlayPresentation.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\CAUCSE\Documents\opencv\build\include /IC:\Users\CAUCSE\Documents\opencv\build\include\opencv /IC:\Users\CAUCSE\Documents\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PlayPresentation.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PlayPresentation.cpp PlayPresentationDlg.cpp
+         PlayPresentationDlg.cpp
+         코드를 생성하고 있습니다...
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         PlayPresentation.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\PlayPresentation.res" PlayPresentation.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\caucse\documents\visual studio 2013\Projects\PlayPresentation\Debug\PlayPresentation.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\CAUCSE\Documents\opencv\build\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\caucse\documents\visual studio 2013\Projects\PlayPresentation\Debug\PlayPresentation.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\caucse\documents\visual studio 2013\Projects\PlayPresentation\Debug\PlayPresentation.lib" /MACHINE:X86 Debug\PlayPresentation.res
+         Debug\PlayPresentation.obj
+         Debug\PlayPresentationDlg.obj
+         Debug\stdafx.obj
+         PlayPresentation.vcxproj -> c:\users\caucse\documents\visual studio 2013\Projects\PlayPresentation\Debug\PlayPresentation.exe
+     1>"c:\Users\CAUCSE\documents\visual studio 2013\Projects\PlayPresentation\PlayPresentation\PlayPresentation.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.48
